@@ -1,0 +1,22 @@
+C:\Users\ACER\source\repos\toko_betamart\toko_betamart\bin\Debug\barangbetamart.accdb
+C:\Users\ACER\source\repos\toko_betamart\toko_betamart\bin\Debug\toko_betamart.exe.config
+C:\Users\ACER\source\repos\toko_betamart\toko_betamart\bin\Debug\toko_betamart.exe
+C:\Users\ACER\source\repos\toko_betamart\toko_betamart\bin\Debug\toko_betamart.pdb
+C:\Users\ACER\source\repos\toko_betamart\toko_betamart\obj\Debug\toko_betamart.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\toko_betamart\toko_betamart\obj\Debug\toko_betamart.Form1.resources
+C:\Users\ACER\source\repos\toko_betamart\toko_betamart\obj\Debug\toko_betamart.Properties.Resources.resources
+C:\Users\ACER\source\repos\toko_betamart\toko_betamart\obj\Debug\toko_betamart.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\toko_betamart\toko_betamart\obj\Debug\toko_betamart.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\toko_betamart\toko_betamart\obj\Debug\toko_betamart.exe
+C:\Users\ACER\source\repos\toko_betamart\toko_betamart\obj\Debug\toko_betamart.pdb
+C:\Users\hp\source\repos\betamart dhistaku\betamart dhistaku\toko_betamart\toko_betamart\bin\Debug\barangbetamart.accdb
+C:\Users\hp\source\repos\betamart dhistaku\betamart dhistaku\toko_betamart\toko_betamart\bin\Debug\toko_betamart.exe.config
+C:\Users\hp\source\repos\betamart dhistaku\betamart dhistaku\toko_betamart\toko_betamart\bin\Debug\toko_betamart.exe
+C:\Users\hp\source\repos\betamart dhistaku\betamart dhistaku\toko_betamart\toko_betamart\bin\Debug\toko_betamart.pdb
+C:\Users\hp\source\repos\betamart dhistaku\betamart dhistaku\toko_betamart\toko_betamart\obj\Debug\toko_betamart.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\betamart dhistaku\betamart dhistaku\toko_betamart\toko_betamart\obj\Debug\toko_betamart.Form1.resources
+C:\Users\hp\source\repos\betamart dhistaku\betamart dhistaku\toko_betamart\toko_betamart\obj\Debug\toko_betamart.Properties.Resources.resources
+C:\Users\hp\source\repos\betamart dhistaku\betamart dhistaku\toko_betamart\toko_betamart\obj\Debug\toko_betamart.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\betamart dhistaku\betamart dhistaku\toko_betamart\toko_betamart\obj\Debug\toko_betamart.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\betamart dhistaku\betamart dhistaku\toko_betamart\toko_betamart\obj\Debug\toko_betamart.exe
+C:\Users\hp\source\repos\betamart dhistaku\betamart dhistaku\toko_betamart\toko_betamart\obj\Debug\toko_betamart.pdb
